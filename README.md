@@ -1,4 +1,4 @@
-## Hi there 👋
+## HALLO!! APA KABAR 👋
 
 <!--
 **Riezk2705/Riezk2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
